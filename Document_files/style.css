@@ -1,0 +1,163 @@
+
+    
+  @import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
+
+
+ body {
+    background-image: url("./images/bg-pattern-bottom.svg"),
+                      url("./images/bg-pattern-top.svg");
+                      background-repeat: no-repeat, no-repeat;
+                      background-position: -390px -333px, 480px 541px;
+                      background-color: #19A1AE;
+                      
+               
+}
+
+  *{
+    margin: 0;
+    padding: 0;
+
+    box-sizing: border-box;
+    font-family: 'Kumbh Sans'
+  }
+    
+  body{
+        justify-content: center;
+        display: flex;
+        align-items: center;
+        
+        width: 100%;
+        height:100vh;
+        position: relative;
+        margin: 1px;
+ }
+
+  main {
+      outline: auto;
+      width: 350px;
+      border-radius: 15px;
+      height: 374px;
+
+     background: #FFFFFF;
+     border-radius: 15px;
+
+  }
+
+  .containet1 img {
+    border-radius: 15px 15px 0px 0px;
+    background: #41CBD3;
+  }
+
+  .container2 img {
+    background: #FFFFFF;
+    height: 96px;
+    width: 96px;
+    border-radius: 50%;
+
+    position: relative;    
+    top: -48px;
+    left:120px;
+    border: 5px solid #FFFFFF;
+    
+  }
+  .container3{
+   
+    text-align: center;
+    margin-top: -40px;
+  }
+  hr{
+    color: #E8E9EC;
+    width: 350px;
+    height: 1px;
+    top: 285px;
+
+
+  }
+ 
+  .victor{
+    font-weight: 700;
+    color: #2E3349;
+
+  }
+  .l26{
+    font-weight: 400;
+    margin-left: 8.8px;
+    color: #6B7082;
+  }
+  .london{
+    font-weight: 400;
+    line-height: 17px;
+    text-align: center;
+    
+  }
+  hr{
+    margin-top: 28px;
+    width: 350px;
+    background: #E8E9EC;
+
+  }
+
+  .main{
+    display: flex;
+    margin-top: 24px;
+    
+  }
+  .container4{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-left: 59px;
+   
+  }
+  .k80k{
+    color: #2E3349;
+    font-weight: 700;
+  }
+  .Followers{
+    font-weight: 400;
+    line-height: 12px;
+    letter-spacing: 1.5px;
+    font-size: 10px;
+
+  }
+  .k803k{ 
+    font-weight: 700;
+    line-height: 22px;
+    text-align: center;
+    font-size: 18px;
+
+  }
+  .likes {
+    font-weight: 400;
+    line-height: 12px;
+    letter-spacing: 1.5px;
+    text-align: center;
+    font-size: 10px;
+    color: #6B7082;
+
+
+  }
+  .k14k {
+    font-weight: 700;
+    line-height: 22px;
+    text-align: center;
+    font-size: 18px;
+
+  }
+
+  .container5{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-left: 58.5px;
+  }
+  .contaner6{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-left: 57px;
+
+  }
+
+
+
